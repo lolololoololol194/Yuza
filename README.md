@@ -2,7 +2,7 @@
 A mod of BootNTR which will allows you to choose the version of NTR you want to load (and it is also much faster than regular BootNTR).
 
 # Latest stable builds
-The latest stable builds can be found in the [releases section](https://github.com/Nanquitas/BootNTR/releases).
+The latest stable builds can be found in the [releases section](https://github.com/lolololoololol194/Yuza/releases).
 
 # Installation
 ### CIA
